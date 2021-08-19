@@ -1,0 +1,1 @@
+Baixe o ffmpeg e salve o executável nessa pasta para o script funcionar
